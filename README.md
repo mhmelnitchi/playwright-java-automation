@@ -38,10 +38,6 @@ saucedemo-playwright
 1. **Install JDK 17+**
 2. **Install Maven**
 3. Clone this repository
-4. Install Playwright CLI dependencies:
-```bash
-mvn exec:java -e -Dexec.mainClass=com.microsoft.playwright.CLI -Dexec.args="install"
-```
 
 ---
 
@@ -85,10 +81,6 @@ It contains:
 
 ## 📌 Author
 
-This project is developed as part of a QA regression suite for SauceDemo.
+Mihail
 
----
 
-## 📬 Feedback
-
-For issues or improvements, feel free to raise a pull request or issue.

@@ -74,6 +74,7 @@ It contains:
 - ✅ Login Tests (positive, negative, edge-case users)
 - ✅ Cart Tests (add/remove/multiple items)
 - ✅ Checkout Tests (full flow + validations)
+- ✅ Sort Tests 
 - ✅ Logout Test
 - ✅ Reset App State Test
 
